@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="countDownTimer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/countDownTimer_jar</output-path>
+    <root id="archive" name="countDownTimer.jar">
+      <element id="module-output" name="countDownTimer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libs/jna-5.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libs/jna-platform-5.6.0 (1).jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
